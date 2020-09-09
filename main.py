@@ -6,8 +6,8 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'mi nombre es, {name}') # Press Ctrl+F8 to toggle the breakpoint.
-    print(f'mi num de control es 16011248')
+    print(f'Hola, {name}') # Press Ctrl+F8 to toggle the breakpoint.
+
 
 
 # Press the green button in the gutter to run the script.
